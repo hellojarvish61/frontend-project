@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MotionCraft – Animated Frontend Web App                                                                              
+Developed a modern frontend web application using React.js with a component-based architecture
+Implemented smooth and interactive UI animations using GSAP to enhance user experience
+Used React hooks for state management and handling component lifecycle
+Designed a clean, responsive layout compatible across different screen sizes
+Optimized animations and components for better performance and smooth transitions
